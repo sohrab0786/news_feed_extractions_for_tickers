@@ -1,0 +1,7 @@
+lxml
+bs4
+requests
+psycopg
+boto3
+botocore
+dotenv
