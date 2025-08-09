@@ -1,5 +1,5 @@
 This is used to extract the tickers from supabase then fetch its latest news via url then it uses ollama model for summarizing the news then it append this summarized news in supabase. 
-
+**Download ollama model llama3.2:latest**
 1. git clone https://github.com/sohrab0786/news_feed_extractions_for_tickers.git
 2. cd news_feed_extractions_for_tickers
 3. python -m venv venv
